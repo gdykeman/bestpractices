@@ -1,1 +1,1 @@
-# bestpractices
+# bestpratices for ATS
